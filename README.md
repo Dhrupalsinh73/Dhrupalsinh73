@@ -28,13 +28,8 @@ passionate web developer
     <img align="center" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="Dhrupalsinh73" height="30" width="40" />
 </a>
 
-
-
-
-
-
 </svg>
 </p>
 
 
-Looking forward to collaborating on exciting projects and learning together!
+Eager to embark on thrilling projects and grow together through shared learning!
