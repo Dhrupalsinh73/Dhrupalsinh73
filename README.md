@@ -21,7 +21,7 @@ passionate web developer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/dj_dodiya_73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Dhrupalsinhdodiya" height="30" width="40" /></a>
+<a href="https://x.com/dj__dodiya__73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Dhrupalsinhdodiya" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/dhrupalsinh_73" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=O4SEeX66BY8o&format=png&color=000000" alt="Dhrupalsinh_73" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/dhrupalsinh_73/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Dhrupalsinh73" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/dhrupalsinhdodiya/" target="_blank">
